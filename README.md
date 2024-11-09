@@ -25,7 +25,3 @@ The project will be accessible in your browser at http://localhost:3000.
 
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
