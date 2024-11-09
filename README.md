@@ -13,7 +13,7 @@ Local Development
 To run this project on your computer, follow these steps:
 
 Clone this repository from GitHub.
-git clone https://github.com/your-username/hooBank.git
+git clone https://github.com/cseishrakul/hooBank.git
 Open your terminal and navigate to the project folder.
 
 cd hooBank
